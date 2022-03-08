@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617017863545",
+    "project_id": "snapchat-492e0",
+    "storage_bucket": "snapchat-492e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617017863545:android:fc9ce2882c693aa90fd3a8",
+        "android_client_info": {
+          "package_name": "com.skander.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617017863545-rgglm0cm1f9ardcrehpgu45o50bat4um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5ykL5A8zou5E2SXMP03O89sKCkMMgqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617017863545-rgglm0cm1f9ardcrehpgu45o50bat4um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
