@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Snapchat/app/src/main/res/layout/activity_choose_user.xml" value="0.1265625" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Snapchat/app/src/main/res/layout/activity_create_snap.xml" value="0.12" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Snapchat/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Snapchat/app/src/main/res/layout/activity_snaps.xml" value="0.1265625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Snapchat/app/src/main/res/layout/activity_view_snap.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Snapchat/app/src/main/res/menu/snaps.xml" value="0.1" />
       </map>
     </option>
